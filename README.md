@@ -10,6 +10,25 @@ https://my-portfolio1-weld.vercel.app/
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](assets/dave.png)
+
+### Contact Form
+![Contact Form](assets/contact.png)
+
+### Message Sent Confirmation
+![Message Sent](assets/message-sent.png)
+
+### Admin - Messages View
+![Admin Messages](assets/admin-message.png)
+
+### Admin - Reply System
+![Admin Reply](assets/admin-reply.png)
+
+---
+
 ## Features
 
 - Modern responsive UI design
@@ -20,6 +39,7 @@ https://my-portfolio1-weld.vercel.app/
 - Messages stored in Google Sheets
 - Email notifications for new contact submissions
 - Admin dashboard to view and manage messages
+- Reply functionality in admin panel
 
 ---
 
@@ -32,6 +52,7 @@ The contact system is powered without a traditional backend:
 3. Apps Script stores data in Google Sheets
 4. Email notification is sent automatically
 5. Admin dashboard displays all submitted messages
+6. Admin can reply directly from dashboard
 
 ---
 
@@ -50,6 +71,7 @@ The contact system is powered without a traditional backend:
 
 The admin dashboard allows:
 - Viewing all submitted contact messages
+- Replying to messages
 - Tracking user inquiries
 - Managing communication efficiently
 
